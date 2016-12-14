@@ -1,9 +1,10 @@
 # JS-Cucumber-WebdriverJS
 
-There are several packages available for working with Selenium in JavaScript .
+There are several packages available for working with Selenium in JavaScript.
 The officially supported bindings are selenium-webdriver, also called WebDriverJS.
 
 https://www.npmjs.com/package/selenium-webdriver
+
 https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs
 
 ## Install node.js
@@ -46,8 +47,7 @@ export SAUCE_ACCESS_KEY="YOUR_SAUCE_ACCESS_KEY"
 
 ## Create a remote webdriver instance
 
-
-
+```
 SAUCE_URL="https://$SAUCE_USERNAME:$SAUCE_ACCESS_KEY@ondemand.saucelabs.com:80" 
 \ cucumber.js
-driver = 
+```
