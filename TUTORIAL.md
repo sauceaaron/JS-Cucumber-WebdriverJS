@@ -9,15 +9,18 @@ https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs
 
 ## Install node.js
 
-This framework uses Node.js to run tests with JavaScript.  You can download it from https://nodejs.org and install locally.
+This framework uses Node.js to run tests with JavaScript.  You can download and install it from https://nodejs.org.
 
-On Mac, you can also use homebrew
+
+#### Homebrow (Mac)
+
+On Mac, you can also use homebrew to install node.js
 
 ```
 brew install nodejs
 ```
 
-### NVM 
+#### NVM 
 
 Alternately you can use NVM to install and manage multiple versions of node.js
 
